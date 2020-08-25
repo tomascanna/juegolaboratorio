@@ -1,0 +1,6 @@
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 6\JuegoConsolamejorado\JuegoConsolamejorado\bin\Debug\JuegoConsolamejorado.exe.config
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 6\JuegoConsolamejorado\JuegoConsolamejorado\bin\Debug\JuegoConsolamejorado.exe
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 6\JuegoConsolamejorado\JuegoConsolamejorado\bin\Debug\JuegoConsolamejorado.pdb
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 6\JuegoConsolamejorado\JuegoConsolamejorado\obj\Debug\JuegoConsolamejorado.exe
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 6\JuegoConsolamejorado\JuegoConsolamejorado\obj\Debug\JuegoConsolamejorado.pdb
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\Clase 6\JuegoConsolamejorado\JuegoConsolamejorado\obj\Debug\JuegoConsolamejorado.csprojResolveAssemblyReference.cache
